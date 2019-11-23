@@ -66,3 +66,5 @@ Life cycle
 what is ngZones
 lazy loading
 rxjs cache
+
+difference between all position in css ?
