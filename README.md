@@ -53,3 +53,16 @@ Server and deployment
 What to do for user experience, tools used to measure them
 
 CORS in angular
+
+What is hierarchial dependency injection
+How anguar dependecy injection
+what is difference between JIT and AOT
+what is rxjs
+How subject works and how it is different from observable
+what is change detection model
+what is router and what re the features of router
+difference between .forRoot() and .forChild()
+Life cycle
+what is ngZones
+lazy loading
+rxjs cache
