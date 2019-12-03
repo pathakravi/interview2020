@@ -72,3 +72,6 @@ difference between all position in css ?
 https://github.com/sudheerj/javascript-interview-questions
 https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617
 https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf
+
+Mphasis Questions :
+what is destructing ?
