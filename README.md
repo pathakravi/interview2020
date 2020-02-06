@@ -76,4 +76,18 @@ https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf
 Mphasis Questions :
 what is destructing ?
 
-Subject - ia a special type of observable that allows values to be multicasted to many observers.
+Subject - is a special type of observable that allows values to be multicasted to many observers. Subjects are like eventemitters that maintain a registry of many listeners.
+
+observers --> subscribes to Subject 
+Subject ---> sunscribes to source observables
+
+Async Subject -
+Behavior Subject -
+Replay Subject -
+
+
+Subscription/Subscribe - ia glues together producer and consumer.
+Add and remove multiple subscription together.
+const sunscription1 = obs1.subscribe(obserever);
+const sunscription1.add(sunscription2);
+const sunscription1.remove(sunscription2);
