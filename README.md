@@ -75,3 +75,5 @@ https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf
 
 Mphasis Questions :
 what is destructing ?
+
+Subject - ia a special type of observable that allows values to be multicasted to many observers.
